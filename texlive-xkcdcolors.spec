@@ -1,6 +1,6 @@
 Name:		texlive-xkcdcolors
-Version:	54512
-Release:	2
+Version:	67895
+Release:	1
 Summary:	xkcd names of colors
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xkcdcolors
