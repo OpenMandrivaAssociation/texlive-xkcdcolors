@@ -3,7 +3,7 @@ Version:	67895
 Release:	1
 Summary:	xkcd names of colors
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xkcdcolors
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xkcdcolors
 License:	lppl1.3c cc0
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xkcdcolors.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xkcdcolors.doc.r%{version}.tar.xz
